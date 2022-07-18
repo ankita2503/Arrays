@@ -4,7 +4,7 @@ public class CycleRotate {
 
 	public static void main(String[] args) {
 		int [] arr = {1, 2, 3, 4, 5};
-		int count=5;
+		int count=4;
 		while(count>=0) {
 		int n=arr.length-1;
 		int temp=0;
